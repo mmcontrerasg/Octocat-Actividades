@@ -8,4 +8,4 @@ gcloud compute instances list
 ```
 gcloud storage ls
 ```
-[Source](https://cloud.google.com/storage/docs/listing-buckets?hl=es-419#cli-list-buckets)
+[Enumerar buckets](https://cloud.google.com/storage/docs/listing-buckets?hl=es-419#cli-list-buckets)
