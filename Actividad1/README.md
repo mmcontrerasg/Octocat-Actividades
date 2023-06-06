@@ -14,4 +14,4 @@ gcloud storage ls
 ```
 gcloud compute instances list
 ```
-[compute instances list] (https://cloud.google.com/sdk/gcloud/reference/compute/instances/list)
+[Compute instances list](https://cloud.google.com/sdk/gcloud/reference/compute/instances/list)
