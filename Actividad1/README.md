@@ -15,3 +15,9 @@ gcloud storage ls
 gcloud compute instances list
 ```
 [Compute instances list](https://cloud.google.com/sdk/gcloud/reference/compute/instances/list)
+
+-Listar Service Accounts existentes en un proyecto
+...
+gcloud iam service-accounts list
+...
+.[Service Accounts](https://cloud.google.com/iam/docs/service-accounts-list-edit?hl=es-419#iam-service-accounts-list-gcloud)
