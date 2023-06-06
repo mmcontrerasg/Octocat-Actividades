@@ -10,7 +10,8 @@ gcloud storage ls
 ```
 [Enumerar buckets](https://cloud.google.com/storage/docs/listing-buckets?hl=es-419#cli-list-buckets)
 
-Listar Listar IPs en uso, existentes o reservadas
+- Listar Listar IPs en uso, existentes o reservadas
+```
 gcloud compute instances list
-+```
-[ compute instances list] (https://cloud.google.com/sdk/gcloud/reference/compute/instances/list)
+```
+[compute instances list] (https://cloud.google.com/sdk/gcloud/reference/compute/instances/list)
