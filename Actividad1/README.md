@@ -1,7 +1,5 @@
 # **Actividad 03**
 
-background-color #A69485
-
 - Listar Compute Engine
 ```
 gcloud compute instances list
