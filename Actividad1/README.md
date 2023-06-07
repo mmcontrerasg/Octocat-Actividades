@@ -36,7 +36,7 @@ gcloud storage ls
 ```
 gcloud compute instances list
 ```
-[Ddirecciones IP de una instancia](https://cloud.google.com/compute/docs/instances/view-ip-address?hl=es-419)
+[Direcciones IP de una instancia](https://cloud.google.com/compute/docs/instances/view-ip-address?hl=es-419)
 
 <span style="color: #CC00CC;">
     Ejemplo
